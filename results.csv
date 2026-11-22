@@ -1,0 +1,4 @@
+model,split,metric_version,backbone,sensors,score,NC,DAC,DDC,TLC,TTC,EP,LK,HC,Comf,source,checkpoint,commit,seed
+DiffusionDrive,navtest,PDMS,,,88.04,98.2,96.2,98.09,,94.77,82.18,,,99.99,reproduced,,,
+DiffusionDrive v2,navtest,PDMS,,,91.05,98.42,97.86,96.72,,94.58,87.52,,,99.85,reproduced,,,
+SparseDrive v2,navtest,PDMS,,,92.23,98.70,98.44,96.12,,95.31,88.65,,,99.98,reproduced,,,
